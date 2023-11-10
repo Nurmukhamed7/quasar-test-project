@@ -1,0 +1,30 @@
+// app global css in SCSS form
+
+body {
+  font-family: Times New Roman;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+  line-height: 14px;
+}
+
+p {
+  text-indent: 3ch;
+  margin: 0;
+  font-size: 13px;
+  text-align: justify;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #000;
+  outline: none;
+}
+
+.block {
+  margin: 0.5cm 0;
+}
