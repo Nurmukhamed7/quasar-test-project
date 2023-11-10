@@ -358,6 +358,7 @@ const bik = ref(null);
 
 const formData = () => {
   alert("Данные отправлены");
+  console.log("Данные отправлены");
 };
 </script>
 
